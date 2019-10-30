@@ -1,0 +1,7 @@
+body{background-color: aqua;}
+header{background-color: #4aaaa5;
+width: 100%;
+height: 75px;}
+html{background-image: url("../images/criss-cross.png");}
+h1{position: absolute;left: 25%;}
+nav{position: absolute;right: 15%;}
