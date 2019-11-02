@@ -46,7 +46,9 @@ h2{color: #4aaaa5;
 }
 main{
     margin: 50px 150px 150px 150px;
-    background-color: bisque;
+    width: 960px;
+    height: 800px;
+
     
 }
 footer{
@@ -58,4 +60,6 @@ footer{
     padding: 6px;
 
 }
-#container{padding-bottom: 40px;}
+#container{margin: 50px 150px 150px 150px;
+    background-color: #ffffff;
+}
